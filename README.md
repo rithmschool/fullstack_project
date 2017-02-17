@@ -20,7 +20,6 @@ Your project MUST satisfy the following requirements:
     2. Something involving web-scraping.
     3. Research some other library (either JavaScript or Python) that we haven't studied in class. There's always more to learn, and a project is a great way to try to get a handle on some technology you're curious about!
 * A more complex database schema (many-to-many, anyone??).
-* Use of some technology we haven't studied. Python and JavaScript both have a 
 
 ### Submission
 
