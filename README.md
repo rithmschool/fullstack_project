@@ -12,11 +12,6 @@ Your project MUST satisfy the following requirements:
 * Your app MUST be deployed on Heroku (remember: deployed apps is a prerequisite for admission to Outco!).
 * Your app has to look good. Feel free to use Bootstrap to help with this, or research another library you can use to help style your application. Remember: non-technical people won't care how complex your backend is if your project looks like garbage.
 * Your app must include a README which explains how to get the app running locally, what technologies you've used, and why you decided to build the project.
-* It must have at least one of the following features:
-	1. Authentication/authorization of users
-	2. Some sort of real-time functionality, using socket.io
-	3. Some sort of web-scraping functionality
-	4. A feature of comparable complexity to one of the three above, and approved by an instructor.
 
 ### Nice-to-haves
 
