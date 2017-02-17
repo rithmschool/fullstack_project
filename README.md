@@ -1,4 +1,4 @@
-# Solo Project
+# Fullstack Project
 
 Now that you've got an understanding of full-stack web development fundamentals, it's time to take some time and build a project on your own. The sky's the limit: you can build a cool game, an application based on an idea you've been kicking around, or a better version of something you've found online. 
 
