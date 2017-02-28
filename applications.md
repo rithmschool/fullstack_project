@@ -9,4 +9,4 @@
 | James        |                        |                           |
 | Joel         |                        |                           |
 | Tommy        | https://github.com/tbobarino/phun_call |  https://phuncall.herokuapp.com |
-| Torre        |                        |                           |
+| Torre        |https://github.com/tostaylo/Pawn_Talk | https://pawntalk.herokuapp.com/ |
