@@ -4,7 +4,7 @@
 |--------------|------------------------|---------------------------|
 | Aaron        |                        |                           |
 | Andrew       |                        |                           |
-| Aric         |                        |                           |
+| Aric         | https://github.com/aricWL/Deew_It | https://deewit.herokuapp.com |
 | Divya        |                        |                           |
 | James        |                        |                           |
 | Joel         |                        |                           |
