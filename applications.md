@@ -8,5 +8,5 @@
 | Divya        |                        |                           |
 | James        |                        |                           |
 | Joel         |                        |                           |
-| Tommy        | https://github.com/tbobarino/phun_call |  https://phuncall.herokuapp.com |
+| Tommy        | https://github.com/tbobarino/phun_call |  http://www.phuncall.com |
 | Torre        |https://github.com/tostaylo/Pawn_Talk | https://pawntalk.herokuapp.com/ |
