@@ -7,6 +7,6 @@
 | Aric         | https://github.com/aricWL/Deew_It | https://deewit.herokuapp.com |
 | Divya        |                        |                           |
 | James        |                        |                           |
-| Joel         |                        |                           |
+| Joel         | https://github.com/joelponce/freedomsongs | https://freedomsongs.herokuapp.com/ |
 | Tommy        | https://github.com/tbobarino/phun_call |  http://www.phuncall.com |
 | Torre        |https://github.com/tostaylo/Pawn_Talk | https://pawntalk.herokuapp.com/ |
