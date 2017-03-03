@@ -5,7 +5,7 @@
 | Aaron        | https://github.com/ammanley/bsa_counselor_db                       |   Will try after Heroku isnt broken                        |
 | Andrew       | https://github.com/andrewmundy/bartindre | http://www.bartindre.com|
 | Aric         | https://github.com/aricWL/Deew_It | https://deewit.herokuapp.com |
-| Divya        |                        |                           |
+| Divya        | https://github.com/divyaoswal/HelpLocals | helplocals.herokuapp.com |                           
 | James        |                        |                           |
 | Joel         |                        |                           |
 | Tommy        | https://github.com/tbobarino/phun_call |  http://www.phuncall.com |
