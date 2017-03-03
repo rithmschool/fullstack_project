@@ -2,7 +2,7 @@
 
 | Project Name | GitHub Repository Link | Deployed Application Link |
 |--------------|------------------------|---------------------------|
-| Aaron        | https://github.com/ammanley/bsa_counselor_db                       |   Will try after Heroku isnt broken                        |
+| Aaron        | https://github.com/ammanley/bsa_counselor_db                       |    https://mb-counselor-track.herokuapp.com/counselors/signup                    |
 | Andrew       | https://github.com/andrewmundy/bartindre | http://www.bartindre.com|
 | Aric         | https://github.com/aricWL/Deew_It | https://deewit.herokuapp.com |
 | Divya        | https://github.com/divyaoswal/HelpLocals | helplocals.herokuapp.com |                           
