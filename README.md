@@ -21,6 +21,8 @@ Your project MUST satisfy the following requirements:
     3. Research some other library (either JavaScript or Python) that we haven't studied in class. There's always more to learn, and a project is a great way to try to get a handle on some technology you're curious about!
 * A more complex database schema (many-to-many, anyone??).
 
+You can choose to work solo on a project or pair with someone else. You're encouraged to pair, since you'll be able to build more in a week with two people working on the same project, but this isn't required.
+
 ### Submission
 
 When your app is deployed, put a link to it in the [applications](./applications.md) readme.
