@@ -15,7 +15,7 @@
 
 # Rithm 2
 
-| Project Name | GitHub Repository Link | Deployed Application Link |
+| Name | GitHub Repository Link | Deployed Application Link |
 |--------------|------------------------|---------------------------|
 | Aaron        | https://github.com/ammanley/bsa_counselor_db                       |    https://mb-counselor-track.herokuapp.com/counselors/signup                    |
 | Andrew       | https://github.com/andrewmundy/bartindre | http://www.bartindre.com|
