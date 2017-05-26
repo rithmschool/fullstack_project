@@ -9,7 +9,7 @@ To help provide you with some structure as you think about your project, here ar
 Your project MUST satisfy the following requirements:
 
 * It MUST be a full-stack web application which uses a database for some form of persistence. You've graduated from projects that only have a front-end.
-* Your app MUST be deployed on Heroku (remember: deployed apps is a prerequisite for admission to Outco!).
+* Your app MUST be deployed on Heroku (remember: deployed apps are a prerequisite for admission to Outco!).
 * Your app has to look good. Feel free to use Bootstrap to help with this, or research another library you can use to help style your application. Remember: non-technical people won't care how complex your backend is if your project looks like garbage.
 * Your app must include a README which explains how to get the app running locally, what technologies you've used, and why you decided to build the project.
 
