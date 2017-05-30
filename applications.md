@@ -7,7 +7,7 @@
 | Arthur |  |
 | Dan    |  |
 | Julia  |  |
-| Katie  |  | 
+| Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
 | Shriya |  | 
 | Tobi   |  |
