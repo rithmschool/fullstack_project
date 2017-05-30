@@ -9,7 +9,7 @@
 | Julia  |  |
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
-| Shriya |  | 
+| Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
 | Tobi   |  |
 | Vivian |  | 
 
