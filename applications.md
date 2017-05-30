@@ -9,7 +9,7 @@
 | Julia  |  |
 | Katie  |  | 
 | Polina |  |
-| Shriya |  | 
+| Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
 | Tobi   |  |
 | Vivian |  | 
 
