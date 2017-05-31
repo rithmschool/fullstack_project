@@ -6,7 +6,7 @@
 | Amanda |  |
 | Arthur |  |
 | Dan    |  |
-| Julia  |  |
+| Julia  |  https://github.com/juliahazer/chart-my-team-2 | https://chart-my-team.herokuapp.com/
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
 | Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
