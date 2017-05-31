@@ -11,7 +11,7 @@
 | Polina |  |
 | Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
 | Tobi   | https://github.com/tobicodes/Podcast-app | https://a-pod-a-day.herokuapp.com/
-| Vivian |  | 
+| Vivian | https://github.com/v-lai/calendar-app | https://calendar-mood.herokuapp.com/
 
 # Rithm 2
 
