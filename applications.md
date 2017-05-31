@@ -5,7 +5,7 @@
 | Albert |  |
 | Amanda |  |
 | Arthur | https://github.com/artukam/Project_Momentai |https://momentai-app.herokuapp.com/users/login
-| Dan    |  |
+| Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/ 
 | Julia  |  |
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
