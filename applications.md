@@ -3,15 +3,15 @@
 | Name   | Github Repository Link | Deployed Application Link |
 |--------|------------------------|---------------------------|
 | Albert |  |
-| Amanda |  |
-| Arthur |  |
-| Dan    |  |
-| Julia  |  https://github.com/juliahazer/chart-my-team-2 | https://chart-my-team.herokuapp.com/
+| Amanda | https://github.com/amandanagai/scavanger_hunt | https://scavanger-hunt.herokuapp.com/users/login
+| Arthur | https://github.com/artukam/Project_Momentai |https://momentai-app.herokuapp.com/users/login
+| Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/ 
+| Julia  | https://github.com/juliahazer/chart-my-team-2 | https://chart-my-team.herokuapp.com/
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
 | Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
 | Tobi   | https://github.com/tobicodes/Podcast-app | https://a-pod-a-day.herokuapp.com/
-| Vivian |  | 
+| Vivian | https://github.com/v-lai/calendar-app | https://calendar-mood.herokuapp.com/
 
 # Rithm 2
 
