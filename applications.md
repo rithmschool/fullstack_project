@@ -5,7 +5,7 @@
 | Albert |  |
 | Amanda |  |
 | Arthur |  |
-| Dan    |  |
+| Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/
 | Julia  |  |
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
