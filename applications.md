@@ -3,7 +3,7 @@
 | Name   | Github Repository Link | Deployed Application Link |
 |--------|------------------------|---------------------------|
 | Albert |  |
-| Amanda |  |
+| Amanda | https://github.com/amandanagai/scavanger_hunt | https://scavanger-hunt.herokuapp.com/users/login
 | Arthur |  |
 | Dan    |  |
 | Julia  |  |
