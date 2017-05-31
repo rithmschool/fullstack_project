@@ -4,13 +4,13 @@
 |--------|------------------------|---------------------------|
 | Albert |  |
 | Amanda |  |
-| Arthur |  |
-| Dan    |  |
+| Arthur | https://github.com/artukam/Project_Momentai |https://momentai-app.herokuapp.com/users/login
+| Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/ 
 | Julia  |  |
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
 | Polina |  |
 | Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
-| Tobi   |  |
+| Tobi   | https://github.com/tobicodes/Podcast-app | https://a-pod-a-day.herokuapp.com/
 | Vivian | https://github.com/v-lai/calendar-app | https://calendar-mood.herokuapp.com/
 
 # Rithm 2
