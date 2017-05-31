@@ -4,7 +4,7 @@
 |--------|------------------------|---------------------------|
 | Albert |  |
 | Amanda |  |
-| Arthur |  |
+| Arthur | https://github.com/artukam/Project_Momentai |https://momentai-app.herokuapp.com/users/login
 | Dan    |  |
 | Julia  |  |
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
