@@ -8,7 +8,7 @@
 | Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/ 
 | Julia  | https://github.com/juliahazer/chart-my-team-2 | https://chart-my-team.herokuapp.com/
 | Katie  | https://github.com/katielkrieger/bookshelf-app | https://my-bookshelves.herokuapp.com/
-| Polina |  |
+| Polina | https://github.com/polinamarchenko/funderlee | https://funderlee.herokuapp.com/
 | Shriya | https://github.com/shriya/lettuce-be-friends | https://lettuce-be-friends.herokuapp.com/
 | Tobi   | https://github.com/tobicodes/Podcast-app | https://a-pod-a-day.herokuapp.com/
 | Vivian | https://github.com/v-lai/calendar-app | https://calendar-mood.herokuapp.com/
