@@ -2,7 +2,7 @@
 
 | Name   | Github Repository Link | Deployed Application Link |
 |--------|------------------------|---------------------------|
-| Albert |  |
+| Albert | https://github.com/aykaypkt/dota5stack | https://dota5stack.herokuapp.com/
 | Amanda | https://github.com/amandanagai/scavanger_hunt | https://scavanger-hunt.herokuapp.com/users/login
 | Arthur | https://github.com/artukam/Project_Momentai |https://momentai-app.herokuapp.com/users/login
 | Dan    | https://github.com/desl/wbnb | https://wbnb.herokuapp.com/ 
