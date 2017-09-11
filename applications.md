@@ -14,7 +14,7 @@
 | Michael | |
 | Michelle | |
 | Renwick | |
-| Rob | |
+| Rob | https://github.com/bigrobsf/hd | https://hd-hit.herokuapp.com/ | 
 | Sarah | |
 
 # Rithm 3
