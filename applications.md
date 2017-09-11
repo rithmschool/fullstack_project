@@ -11,10 +11,10 @@
 | Jonathan | |
 | Kevin | https://github.com/kevincchang13/workout-personal-project | https://motiv8tion.herokuapp.com/
 | Matt | |
-| Michael | |
+| Michael | https://github.com/preeme/fullstack_project | https://fullstackwe-ball.herokuapp.com/
 | Michelle | |
 | Renwick | |
-| Rob | https://github.com/bigrobsf/hd | https://hd-hit.herokuapp.com/ | 
+| Rob | https://github.com/bigrobsf/hd | https://hd-hit.herokuapp.com/ |
 | Sarah | |
 
 # Rithm 3
