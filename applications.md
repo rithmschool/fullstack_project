@@ -9,7 +9,7 @@
 | Chitwant | |
 | Geoff | |
 | Jonathan | |
-| Kevin | |
+| Kevin | https://github.com/kevincchang13/workout-personal-project | https://motiv8tion.herokuapp.com/
 | Matt | |
 | Michael | |
 | Michelle | |
