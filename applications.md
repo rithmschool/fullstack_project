@@ -4,7 +4,7 @@
 |------|------|------|
 | Adele | |
 | AJ | |
-| Brian | |
+| Brian |https://github.com/ExplodedZombie/dungeons|https://ez-games.herokuapp.com/|
 | Chaim | |
 | Chitwant | |
 | Geoff | |
@@ -14,7 +14,7 @@
 | Michael | |
 | Michelle | |
 | Renwick | |
-| Rob | |
+| Rob | https://github.com/bigrobsf/hd | https://hd-hit.herokuapp.com/ | 
 | Sarah | |
 
 # Rithm 3
