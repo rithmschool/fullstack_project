@@ -8,7 +8,7 @@
 | Chaim | |
 | Chitwant | |
 | Geoff | |
-| Jonathan | |
+| Jonathan | https://github.com/jonwyuen/map_it | https://map-it-app.herokuapp.com/
 | Kevin | https://github.com/kevincchang13/workout-personal-project | https://motiv8tion.herokuapp.com/
 | Matt | |
 | Michael | |
