@@ -2,7 +2,7 @@
 
 | Name   | Github Repository Link | Deployed Application Link |
 |------|------|------|
-| Adele | |
+| Adele | https://github.com/aalanders/elephant_medication_reminders | https://elephant-medication-reminders.herokuapp.com/
 | AJ | |
 | Brian |https://github.com/ExplodedZombie/dungeons|https://ez-games.herokuapp.com/|
 | Chaim | |
