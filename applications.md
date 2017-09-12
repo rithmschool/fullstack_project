@@ -6,7 +6,7 @@
 | AJ | |
 | Brian |https://github.com/ExplodedZombie/dungeons|https://ez-games.herokuapp.com/|
 | Chaim | |
-| Chitwant | |
+| Chitwant |https://github.com/chitwant82/beat-the-king-app | https://beat-the-king-app.herokuapp.com
 | Geoff | |
 | Jonathan | |
 | Kevin | https://github.com/kevincchang13/workout-personal-project | https://motiv8tion.herokuapp.com/
