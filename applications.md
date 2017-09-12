@@ -12,7 +12,7 @@
 | Kevin | |
 | Matt | |
 | Michael | |
-| Michelle | |
+| Michelle | https://github.com/MiHHuynh/productivity-app | https://productivity-helper-app.herokuapp.com/
 | Renwick | |
 | Rob | | 
 | Sarah | |
