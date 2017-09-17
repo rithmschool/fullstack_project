@@ -5,7 +5,7 @@
 | Adele | |
 | AJ | |
 | Brian | |
-| Chaim | |
+| Chaim | https://github.com/toChaim/flask_cbt | https://flask-cbt.herokuapp.com/
 | Chitwant | |
 | Geoff | |
 | Jonathan | |
