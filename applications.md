@@ -5,7 +5,7 @@
 | Adele | https://github.com/aalanders/elephant_medication_reminders | https://elephant-medication-reminders.herokuapp.com/
 | AJ | |
 | Brian |https://github.com/ExplodedZombie/dungeons|https://ez-games.herokuapp.com/|
-| Chaim | |
+| Chaim | https://github.com/toChaim/flask_cbt | https://flask-cbt.herokuapp.com/
 | Chitwant |https://github.com/chitwant82/beat-the-king-app | https://beat-the-king-app.herokuapp.com
 | Geoff | |
 | Jonathan | https://github.com/jonwyuen/map_it | https://map-it-app.herokuapp.com/
